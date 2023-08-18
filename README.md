@@ -8,7 +8,7 @@ I'm always willing to put in the extra effort to get the job done, I also believ
 ## 
 
 ## My Open-Source Project 🤖
-  https://model-chi-livid.vercel.app/ \n
+  <div>https://model-chi-livid.vercel.app/ </div>
   https://food-delivery-tau-neon.vercel.app/
   https://real-estate-two-navy.vercel.app/
   https://coffee-shop-psi-rosy.vercel.app/
