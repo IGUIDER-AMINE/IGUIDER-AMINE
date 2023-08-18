@@ -12,9 +12,12 @@ I'm always willing to put in the extra effort to get the job done, I also believ
   https://burger-shop-alpha.vercel.app/ <br/>
 
 ## 📫 How to reach me
+https://www.amineiguider.com/ <br/>
+https://ma.linkedin.com/in/amine-iguider-684146227
 
 ## 👯 I’m looking to collaborate on
-
+  Front-End : Next Js/React Js - Tailwindcss - Redux
+  Mobile    : React Native
 <!--
 **IGUIDER-AMINE/IGUIDER-AMINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
