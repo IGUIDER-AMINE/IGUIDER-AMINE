@@ -4,15 +4,17 @@ I'm confident in my ability to create high-quality and well-functioning web/mobi
 
 I'm always willing to put in the extra effort to get the job done, I also believe in working collaboratively with my team members to achieve goals.
 
-
-## 
-
 ## My Open-Source Project 🤖
-  <div>https://model-chi-livid.vercel.app/ </div>
-  https://food-delivery-tau-neon.vercel.app/
-  https://real-estate-two-navy.vercel.app/
-  https://coffee-shop-psi-rosy.vercel.app/
-  https://burger-shop-alpha.vercel.app/
+  https://model-chi-livid.vercel.app/ <br/>
+  https://food-delivery-tau-neon.vercel.app/ <br/>
+  https://real-estate-two-navy.vercel.app/ <br/>
+  https://coffee-shop-psi-rosy.vercel.app/ <br/>
+  https://burger-shop-alpha.vercel.app/ <br/>
+
+## 📫 How to reach me
+
+## 👯 I’m looking to collaborate on
+
 <!--
 **IGUIDER-AMINE/IGUIDER-AMINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
