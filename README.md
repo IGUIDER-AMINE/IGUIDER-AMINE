@@ -1,4 +1,4 @@
-Hello, I'm Amine IGUIDER junior Developer, for the past year I have been working on many projects react js | react native and other tools and technologies, in this time I have gained extensive experience in Web development and mobile development.
+Hello, I'm Amine IGUIDER junior Developer, For the past year I have been working on many projects React js | react native and other tools and technologies, During this time I have gained extensive experience in Web development and mobile development.
 
 I'm confident in my ability to create high-quality and well-functioning web/mobile applications I'm a hard worker and a team player.
 
